@@ -1,1 +1,1 @@
-Filter UFO sitings by date
+Filter UFO sightings by date
